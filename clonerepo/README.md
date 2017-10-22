@@ -1,2 +1,0 @@
-# clonerepo
-clone to local
